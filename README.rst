@@ -21,7 +21,7 @@ Real-world Example
 
 I have a paper I'm working on that I'm building using LatexCommon.mk. My paper's directory comprises::
 
-    # Symbol link to a bibtex input file exported automatically from Mendeley Desktop.
+    # Symbolic link to a bibtex input file exported automatically from Mendeley Desktop.
     authors.bib
     # The LaTeX source for my paper.
     dynamic.tex
