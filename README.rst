@@ -19,7 +19,7 @@ navigate to the example directory and run make.
 Real-world Example
 ==================
 
-I have a paper I'm working which I'm building using LatexCommon.mk. My paper's directory comprises::
+I have a paper I'm working on that I'm building using LatexCommon.mk. My paper's directory comprises::
 
     # Symbol link to a bibtex input file exported automatically from Mendeley Desktop.
     authors.bib
